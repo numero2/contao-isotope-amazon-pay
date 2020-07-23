@@ -1,0 +1,7 @@
+{
+    "name": "numero2/contao-isotope-amazon-pay",
+    "type": "contao-bundle",
+    "description": "Placeholder bundle of the Amazon Pay payment module for Isotope eCommerce",
+    "homepage": "https://www.numero2.de",
+    "license": "proprietary"
+}
