@@ -3,4 +3,4 @@
 
 ## Please note
 This is a commercial extension which **cannot be installed directly**.
-Please contact us at [numero2.de](https://www.numero2.de) to get access to this extension.
+Please contact us at [numero2.de](https://www.numero2.de/contao/erweiterungen/amazon-pay-fuer-isotope.html) to get access to this extension.
